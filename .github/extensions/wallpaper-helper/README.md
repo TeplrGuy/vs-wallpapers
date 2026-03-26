@@ -1,6 +1,6 @@
 # 🎨 Wallpaper Helper — Copilot CLI Extension
 
-A demo-ready [Copilot CLI extension](https://docs.github.com/en/copilot) that showcases custom tools, lifecycle hooks, and session events for the Visual Studio Wallpapers site.
+A demo-ready [Copilot CLI extension](https://htek.dev/articles/github-copilot-cli-extensions-complete-guide/) that showcases custom tools, lifecycle hooks, and session events for the Visual Studio Wallpapers site.
 
 ## Features
 
