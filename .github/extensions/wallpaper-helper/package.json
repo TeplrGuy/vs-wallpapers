@@ -1,0 +1,11 @@
+{
+  "name": "wallpaper-helper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Copilot CLI extension demo: custom tool + hooks for the VS wallpapers site",
+  "main": "extension.mjs",
+  "dependencies": {
+    "@github/copilot-sdk": "*"
+  }
+}
